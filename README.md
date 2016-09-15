@@ -6,4 +6,4 @@ directory STL contains all stl parts to be printed for complete printer.
 
 in directory source you can find all parts in source files not converted to stl
 
-Interactive complete model made in autodesk Fusion 360 you can find [here](http://a360.co/2celRiu)
+Interactive complete model made in autodesk Fusion 360 you can find [here](http://a360.co/2cpbFDA)
